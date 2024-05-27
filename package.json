@@ -19,7 +19,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "npm install"
+    "build":"react-scripts build"
+   
   },
   "eslintConfig": {
     "extends": [
